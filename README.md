@@ -2,6 +2,6 @@
 ### Hi there 👋
 
 I am AlphaBeta906, the main (and only) dev for Elementals 3. Working on V1.0.2.
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlphaBeta906&show_icons=true&bg_color=30,ff0000,ffeeee&title_color=fff&text_color=fff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlphaBeta906&show_icons=true&bg_color=30,ff0000,ccccff&title_color=fff&text_color=fff)
 
-![Most Used Languages](https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=AlphaBeta906&show_icons=true&bg_color=30,ff0000,ffeeee&title_color=fff&text_color=fff&layout=compact)
+![Most Used Languages](https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=AlphaBeta906&show_icons=true&bg_color=30,ff0000,ccccff&title_color=fff&text_color=fff&layout=compact)
