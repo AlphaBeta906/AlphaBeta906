@@ -12,6 +12,7 @@ I am a programmer that primarily programs JavaScript (the React kind) and Python
 #### ⚛️ Blood Alchemy
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 **Blood Alchemy** is a game based on [Elemental 3](https://www.youtube.com/watch?v=rQWwfYSUckY), which focuses on combining elements. This adds a economy system and mines, aswell as a class system.
 
 ---
