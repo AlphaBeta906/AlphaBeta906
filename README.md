@@ -1,7 +1,7 @@
+### 👋 Hey!
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlphaBeta906.AlphaBeta906)
-### Hi there 👋
 
-I am AlphaBeta906, the main (and only) dev for Elementals 3. Working on V1.0.2.
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlphaBeta906&show_icons=true&bg_color=30,ff0000,fff&title_color=000&text_color=000)
+I am a programmer that primarily programs JavaScript (the React kind) and Python. I am currently creating Blood Alchemy (previously Elementals 4), and it's API.
 
-![Most Used Languages](https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=AlphaBeta906&show_icons=true&bg_color=30,ff0000,fff&title_color=000&text_color=000&layout=compact)
+![AlphaBeta906's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlphaBeta906&show_icons=true&theme=dark&line_height=40)
+![AlphaBeta906's Most Used Languages](https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=AlphaBeta906&show_icons=true&theme=dark)
