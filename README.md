@@ -1,4 +1,3 @@
-<p align="center">
 ### 👋 Hey!
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlphaBeta906.AlphaBeta906)
 
@@ -13,4 +12,3 @@ I am a programmer that primarily programs JavaScript (the React kind) and Python
 #### ⚛️ Blood Alchemy
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<p align="center">
