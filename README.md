@@ -1,4 +1,5 @@
-<h3 align="center">👋 Hey</h3>
+<h1 align="center">👋 Hey</h1>
+<hr />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlphaBeta906.AlphaBeta906)
 
 I am a programmer that primarily programs JavaScript (the React kind) and Python. I am currently creating Blood Alchemy (previously Elementals 4), and it's API.
