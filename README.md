@@ -1,16 +1,13 @@
 <h3 align="center">👋 Hey</h3>
-
+<h6 align="center">AlphaBeta906</h6>
+  
 ---
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlphaBeta906.AlphaBeta906)
 
 <p align="center">
   👉 Hey! I am a programmer that uses Python and JavaScript.<br/>
   🇵🇭 I live in Metro Manila in the Phillipines.<br/>
   📫 Contact me! Discord: AlphaBeta906Alt#6315
 </p>
-
-![AlphaBeta906's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlphaBeta906&show_icons=true&theme=dark&line_height=40)
-![AlphaBeta906's Most Used Languages](https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=AlphaBeta906&show_icons=true&theme=dark)
 
 ---
 ### 🌱 Current Projects
