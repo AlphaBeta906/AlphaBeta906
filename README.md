@@ -1,4 +1,4 @@
-<h3 style="center">👋 Hey</h3>
+<h2 style="center">👋 Hey</h2>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlphaBeta906.AlphaBeta906)
 
 <center>
