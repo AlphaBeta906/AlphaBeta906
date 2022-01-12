@@ -1,4 +1,6 @@
 <h3 align="center">👋 Hey</h3>
+
+---
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlphaBeta906.AlphaBeta906)
 
 <p align="center">
