@@ -1,5 +1,6 @@
-<h3 align="center">👋 Hey</h3>
-<h6 align="center">AlphaBeta906</h6>
+
+<h3 align="center">Hello! I am AlphaBeta906!</h3>
+<h6 align="center">Proffesional idiot</h6>
   
 ---
 
