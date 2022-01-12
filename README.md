@@ -1,5 +1,5 @@
 
-<h3 align="center">Hello! I am AlphaBeta906!</h3>
+<h3 align="center">👋 Hello! I am AlphaBeta906!</h3>
 <h6 align="center">Professional idiot</h6>
   
 ---
@@ -21,6 +21,3 @@
 
 #### ❓ What's next?
 I am planning, after Blood Alchemy's release to experiment with Web3.0 and create a spin off of Blood Alchemy.
-
----
-### 🤔 About Me
