@@ -5,3 +5,4 @@ I am a programmer that primarily programs JavaScript (the React kind) and Python
 
 ![AlphaBeta906's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlphaBeta906&show_icons=true&theme=dark&line_height=40)
 ![AlphaBeta906's Most Used Languages](https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=AlphaBeta906&show_icons=true&theme=dark)
+[![AlphaBeta906's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlphaBeta906)](https://github.com/AlphaBeta906/github-readme-stats)
