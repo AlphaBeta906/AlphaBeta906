@@ -17,6 +17,7 @@
 #### ⚛️ Blood Alchemy
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase&logoColor=ffca28)
 
 **Blood Alchemy** is a game based on [Elemental 3](https://www.youtube.com/watch?v=rQWwfYSUckY), which focuses on combining elements. This adds my own spin on the concept, which includes a economy system and mines, aswell as a class system. The project is currently in Open-Beta, and on it's way to Open-Beta2.
 
