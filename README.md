@@ -1,6 +1,6 @@
 
 <h3 align="center">Hello! I am AlphaBeta906!</h3>
-<h6 align="center">Proffesional idiot</h6>
+<h6 align="center">Professional idiot</h6>
   
 ---
 
