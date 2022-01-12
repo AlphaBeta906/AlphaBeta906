@@ -5,7 +5,7 @@
 ---
 <p align="center">
   <b>Visitors</b><br/>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" /><br/><br/>
+  <img src="https://profile-counter.glitch.me/AlphaBeta906/count.svg" /><br/><br/>
   👉 Hey! I am a programmer that uses Python and JavaScript.<br/>
   🇵🇭 I live in Metro Manila in the Phillipines.<br/>
   📫 Contact me! Discord: AlphaBeta906Alt#6315
