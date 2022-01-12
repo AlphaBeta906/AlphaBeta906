@@ -4,8 +4,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlphaBeta906.AlphaBeta906)
 
 <p align="center">
-  👉 Hey! I am a programmer that uses Python and JavaScript.
-  🇵🇭 I live in Metro Manila in the Phillipines
+  👉 Hey! I am a programmer that uses Python and JavaScript.<br/>
+  🇵🇭 I live in Metro Manila in the Phillipines.<br/>
   📫 Contact me! Discord: AlphaBeta906Alt#6315
 </p>
 
