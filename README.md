@@ -9,10 +9,8 @@
   📫 Contact me! Discord: AlphaBeta906Alt#6315
 </p>
 
-<p align="center">
-  ![AlphaBeta906's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlphaBeta906&show_icons=true&theme=dark&line_height=40)
-  ![AlphaBeta906's Most Used Languages](https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=AlphaBeta906&show_icons=true&theme=dark)
-</p>
+![AlphaBeta906's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlphaBeta906&show_icons=true&theme=dark&line_height=40)
+![AlphaBeta906's Most Used Languages](https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=AlphaBeta906&show_icons=true&theme=dark)
 
 ---
 ### 🌱 Current Projects
