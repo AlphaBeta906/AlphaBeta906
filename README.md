@@ -12,7 +12,7 @@
 </p>
 
 ---
-### 🌱 Current Projects
+### 🌱 Active Projects
 
 #### ⚛️ Blood Alchemy
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -20,17 +20,25 @@
 ![Firebase](https://img.shields.io/badge/firebase-222?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 **Blood Alchemy** is a game based on [Elemental 3](https://www.youtube.com/watch?v=rQWwfYSUckY), which focuses on combining elements. This adds my own spin on the concept, which includes a economy system and mines, aswell as a class system. The project is currently in Open-Beta, and on it's way to Open-Beta2.
+
+#### 🟩 Outside
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+**Outside** is a meme disord bot, based on the go outside and touch grass meme.
+
+#### ❓ What's next?
+I am planning, after Blood Alchemy's release to experiment with Web3.0 and create a spin off of Blood Alchemy.
+
+### 🔒 Inactive Projects
 
 #### 🏳️ War and Civilization
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 **War and Civilization** is a side-project, caused due to my current mental health right now. Blood Alchemy is currently postponed, and this is what I will be working on.
-
-#### ❓ What's next?
-I am planning, after Blood Alchemy's release to experiment with Web3.0 and create a spin off of Blood Alchemy.
 
 ---
 <p align="center">
