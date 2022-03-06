@@ -5,8 +5,7 @@
 ---
 <p align="center">
   <b>Visitors</b><br/>
-  <img src="https://profile-counter.glitch.me/AlphaBeta906/count.svg" /><br/>
-  <a href="https://wakatime.com/@abe833fd-8871-4ce4-bd45-436fd6e88d31"><img src="https://wakatime.com/badge/user/abe833fd-8871-4ce4-bd45-436fd6e88d31.svg" alt="Total time coded since Jan 12 2022" /></a><br/><br/>
+  <img src="https://profile-counter.glitch.me/AlphaBeta906/count.svg" /><br/><br/>
   👉 Hey! I am a programmer that uses Python and JavaScript.<br/>
   🇵🇭 I live in Metro Manila which is in the Phillipines.<br/>
   📫 Contact me! Discord: AlphaBeta906Alt#6315
@@ -51,5 +50,5 @@ I am planning, after Blood Alchemy's release to experiment with Web3.0 and creat
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=AlphaBeta906&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaBeta906&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=AlphaBeta906&theme=darcula&hide_border=true&background=FFFFFF00">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/wakatime?username=AlphaBeta906">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/wakatime?username=AlphaBeta906&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
