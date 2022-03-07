@@ -32,7 +32,7 @@
 #### 🖊 Ten Hours 'Till Doom
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-**Outside** is a trading card game, which is based on simulator games like Sid Mier's Civilization, adapted thru games like Magic: The Gathering, and plans to implement blockchain collectables.
+**Ten Hours 'Till Doom** is a trading card game, which is based on simulator games like Sid Mier's Civilization, adapted thru games like Magic: The Gathering, and plans to implement blockchain collectables.
 
 #### ❓ What's next?
 I am planning, after Blood Alchemy's release to experiment with Web3.0 and create a spin off of Blood Alchemy.
