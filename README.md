@@ -14,6 +14,17 @@
 ---
 ### 🌱 Active Projects
 
+#### ❓ What's next?
+I am planning, after Blood Alchemy's release to experiment with Web3.0 and create a spin off of Blood Alchemy.
+
+### 🔒 Inactive Projects
+
+#### 🏳️ War and Civilization
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+**War and Civilization** is a side-project, caused due to my current mental health right now. Blood Alchemy is currently postponed, and this is what I will be working on.
+
 #### 🟩 Outside
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
@@ -33,17 +44,6 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 **Ten Hours 'Till Doom** is a trading card game, which is based on simulator games like Sid Mier's Civilization, adapted thru games like Magic: The Gathering, and plans to implement blockchain collectables.
-
-#### ❓ What's next?
-I am planning, after Blood Alchemy's release to experiment with Web3.0 and create a spin off of Blood Alchemy.
-
-### 🔒 Inactive Projects
-
-#### 🏳️ War and Civilization
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-**War and Civilization** is a side-project, caused due to my current mental health right now. Blood Alchemy is currently postponed, and this is what I will be working on.
 
 ---
 <p align="center">
