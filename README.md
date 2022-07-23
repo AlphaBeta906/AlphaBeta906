@@ -15,7 +15,7 @@
 ### 🌱 Active Projects
 
 #### ❓ What's next?
-I am planning, after Blood Alchemy's release to experiment with Web3.0 and create a spin off of Blood Alchemy.
+After the fall of Blood Alchemy, I am starting to be interested at Web3, so projects might be using it.
 
 ### 🔒 Inactive Projects
 
