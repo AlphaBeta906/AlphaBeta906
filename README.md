@@ -14,21 +14,10 @@
 ---
 ### 🌱 Active Projects
 
-#### ❓ What's next?
-After the fall of Blood Alchemy, I am starting to be interested at Web3, so projects might be using it.
+#### ⚛️ Blood Alchemy 2
+**Blood Alchemy 2** is a direct sequel to Blood Alchemy. I'm trying to correct my mistakes on the previous Blood Alchemy here and make a better version of it.
 
 ### 🔒 Inactive Projects
-
-#### 🏳️ War and Civilization
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-**War and Civilization** is a side-project, caused due to my current mental health right now. Blood Alchemy is currently postponed, and this is what I will be working on.
-
-#### 🟩 Outside
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-**Outside** is a meme disord bot, based on the go outside and touch grass meme.
 
 #### ⚛️ Blood Alchemy
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -38,12 +27,7 @@ After the fall of Blood Alchemy, I am starting to be interested at Web3, so proj
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-**Blood Alchemy** is a game based on [Elemental 3](https://www.youtube.com/watch?v=rQWwfYSUckY), which focuses on combining elements. This adds my own spin on the concept, which includes a economy system and mines, aswell as a class system. The project is currently in Open-Beta, and on it's way to Open-Beta2.
-
-#### 🖊 Ten Hours 'Till Doom
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-**Ten Hours 'Till Doom** is a trading card game, which is based on simulator games like Sid Mier's Civilization, adapted thru games like Magic: The Gathering, and plans to implement blockchain collectables.
+**Blood Alchemy** is a game based on [Elemental 3](https://www.youtube.com/watch?v=rQWwfYSUckY), which focuses on combining elements. This adds my own spin on the concept, which includes a economy system and mines, aswell as a class system.
 
 ---
 <p align="center">
