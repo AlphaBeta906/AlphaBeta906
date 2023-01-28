@@ -7,7 +7,7 @@
   <b>Visitors</b><br/>
   <img src="https://profile-counter.glitch.me/AlphaBeta906/count.svg" /><br/><br/>
   👉 Hey! I am a programmer that uses Python and JavaScript.<br/>
-  🇵🇭 I live in Metro Manila which is in the Phillipines.<br/>
+  🇵🇭 I live in Metro Manila which is in the Philippines.<br/>
   📫 Contact me! Discord: AlphaBeta906Alt#6315
 </p>
 
