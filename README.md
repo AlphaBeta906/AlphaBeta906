@@ -30,4 +30,4 @@
 **Blood Alchemy** is a game based on [Elemental 3](https://www.youtube.com/watch?v=rQWwfYSUckY), which focuses on combining elements. This adds my own spin on the concept, which includes a economy system and mines, aswell as a class system.
 
 ---
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fixzkr6jmdg7uba34jb6qt6kgq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fixzkr6jmdg7uba34jb6qt6kgq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=f50000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
